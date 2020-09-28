@@ -1,12 +1,10 @@
-# 📝 Informações
+# 📝 Información
 [![GitHub license](https://img.shields.io/github/license/bgianfo/pr-dash.svg)]()
 
-**Oque fazer?**<br>
-1 - Coloque os seus e-mails dentro do bloco ```dados.txt```
-
-2 - Respeite a regra deixando os e-mails em cada linha separados (um em baixo do outro)
-
-3 - E rode o programa, fim.
+**¿Que hacer?**<br>
+- Coloque sus correos electrónicos dentro del bloque ```dados.txt```
+- Respete la regla dejando los correos electrónicos en cada línea separados (uno debajo del otro)
+- Y ejecuta el programa
 
 ---
 Made with ♥ by Bootjak
