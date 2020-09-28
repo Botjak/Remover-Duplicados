@@ -1,4 +1,6 @@
 # 📝 Informações
+[![GitHub license](https://img.shields.io/github/license/bgianfo/pr-dash.svg)]()
+
 **Oque fazer?**<br>
 1 - Coloque os seus e-mails dentro do bloco ```dados.txt```
 
