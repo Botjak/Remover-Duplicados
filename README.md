@@ -7,4 +7,4 @@
 - Y ejecuta el programa
 
 ---
-Made with ♥ by Bootjak
+Made with ♥ Vitor Conceição
